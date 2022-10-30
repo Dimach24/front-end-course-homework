@@ -26,7 +26,7 @@ function doMagic (arg) {
     case 'plus':
       return arg.a + arg.b
     case 'minus':
-      return arg.a - arg, b
+      return arg.a - arg.b
     case 'times':
       return arg.a * arg.b
     case 'dividedBy':
